@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">randomizer</string>
+    <string name="previous_result_text">Previous result: %d</string>
+    <!-- Snackmessages -->
+    <string name="snackmessage_action_name">close</string>
+    <string name="min_empty">Min EMPTY</string>
+    <string name="max_empty">Max EMPTY</string>
+    <string name="min_more_max">Min > Max</string>
+    <string name="min_overflow">Min > Integer MAX_VALUE</string>
+    <string name="max_overflow">Max > Integer MAX_VALUE</string>
 </resources>
